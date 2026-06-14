@@ -2,11 +2,6 @@
 
 An interactive Power BI dashboard analyzing 1000+ railway bookings across trains, routes, and passenger behavior. Features 7 KPI cards, 8 dynamic visuals, 10 interactive filters, and a Key Insights panel — built using DAX measures, Power Query, and advanced conditional formatting.
 
-🛠️ Tools: Power BI | DAX | Power Query | Excel
-📊 Visuals: Line, Bar, Pie, Donut, Clustered Bar Charts
-🔍 Filters: Train, Class, Quota, Status, Payment Mode, Source, Destination, Date
-💡 Insights: Revenue trends, Delay analysis, Booking patterns & Passenger behavior
----
 
 ## 🖼️ Dashboard Preview
 
