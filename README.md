@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing 1000+ railway bookings across trains
 
 ## 🖼️ Dashboard Preview
 
-![IRCTC Railway Booking Dashboard](Screenshot1.png)
+![IRCTC Railway Booking Dashboard](Screenshot2.png)
 
 ---
 
